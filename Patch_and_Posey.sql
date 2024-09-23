@@ -1,4 +1,4 @@
-/*--creating web_events table
+--creating web_events table
 CREATE TABLE web_events(
 id int,
 account_id int,
